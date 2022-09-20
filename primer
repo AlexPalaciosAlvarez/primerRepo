@@ -1,1 +1,2 @@
 touch text.txt
+echo 'hola' > text.txt
